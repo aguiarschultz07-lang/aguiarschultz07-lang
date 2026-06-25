@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Guilherme! 👋
 
-<!--
-**aguiarschultz07-lang/aguiarschultz07-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 3º ano do Ensino Médio
 
-Here are some ideas to get you started:
+💻 Atualmente estudando Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Tenho conhecimento em HTML e CSS e estou aprimorando minhas habilidades todos os dias.
+
+🚀 Estou aprendendo programação e desenvolvendo projetos para praticar e evoluir como desenvolvedor.
+
+🎯 Interesses: Tecnologia, Programação, Desenvolvimento Web e Aprendizado Contínuo.
+
+## Tecnologias que estou aprendendo
+
+- HTML5
+- CSS3
+- JavaScript (em breve)
+
+## Objetivo
+
+Busco adquirir experiência prática, construir projetos e crescer na área de tecnologia, transformando aprendizado em soluções reais.
+
+📫 Sempre aberto a aprender coisas novas e compartilhar conhecimento!
