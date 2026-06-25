@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme! 👋
 
-🎓 Estudante do 3º ano do Ensino Médio
+🎓 Concluido 3º ano do Ensino Médio
 
 💻 Atualmente estudando Desenvolvimento Web
 
